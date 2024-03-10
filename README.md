@@ -6,6 +6,8 @@ Demo https://drive.google.com/file/d/1WnmJDWPgw5315V7ILPf25c2XYrWZndy7/view?usp=
 
 Use Konvajs to draw canvas
 
+Angular version 17
+
 Player can choose hero with equip based items then go on fighting with monsters.
 
 Player can remove hero or monster in battle
